@@ -41,5 +41,5 @@
 ---
 
 ### 📫 Contact Me
-- Email: [your.email@example.com]
-- LinkedIn: [your LinkedIn link]
+- Email: vinuthayuka5@gmail.com
+
