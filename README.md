@@ -6,11 +6,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Software Engineering student @ [Your University]
-- 🚀 Exploring full-stack dev with **React** + **Spring Boot**
+- 🎓 Software Engineering student at IIT 
+- 🚀 Exploring full-stack dev with varoius languages
 - 💻 Passionate about personal and group tech projects
 - 🔍 Always learning new tools and frameworks
-- 🌍 Based in [Your Country]
+- 🌍 Based in Sri Lanka
 
 ---
 
