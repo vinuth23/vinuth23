@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Software Engineering undergraduate @ IIT (Informatics Institute of Technology)
+- 🎓 Computer Science undergraduate @ IIT (Informatics Institute of Technology)
 - 🚀 Exploring full-stack development with **React**, **Spring Boot**, **Flutter**, and **Node.js** and others
 - 💻 Actively building personal and collaborative projects
 - 🧠 Lifelong learner & tech enthusiast
